@@ -1,0 +1,1 @@
+print("We don't use Hello world like other programmer")
